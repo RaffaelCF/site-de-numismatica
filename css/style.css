@@ -1,0 +1,209 @@
+body{
+    color: darkgoldenrod;
+    background-color: beige;
+    
+}
+
+.logo{
+   text-align: center;
+    margin-top: 25px;
+}
+
+.link{
+    display: flex;
+    justify-content: space-around;
+    color: darkgoldenrod;
+    text-align: center;
+    margin: 20px;
+    background-color: rgb(3, 25, 73);
+    border: 10px darkgoldenrod;
+    border-radius: 10px; 
+    padding: 20px; 
+    box-shadow: 0px 0px 10px darkgoldenrod;
+    position: relative;
+
+
+}
+
+a:hover{
+    color: darkgoldenrod;
+
+}
+
+a:link{
+    text-decoration: none;
+    color:beige;
+}
+
+a:visited{
+    color: beige;
+}
+
+
+.bemvindo{
+width: 500px;  /* Define a largura */
+  height: 250px; /* Define a altura  */
+    top: -20px; /* Move a div para baixo da posição original */
+  left: 10px; /* Move a div  para a direita da posição original */
+    margin: 20px;
+    background-color:rgb(3, 25, 73) ;
+    border: 10px double rgb(3, 25, 73);
+    border-radius: 10px; /*pra arrendondar a borda */
+    padding: 20px; /*Espaço interno */
+    box-shadow: 0px 0px 15px darkgoldenrod;
+    position: relative;
+}
+
+.colecionadores{
+    width: 500px;  /* Define a largura */
+      height: 260px; /* Define a altura  */
+        top: -355px; /* Move a div para baixo da posição original */
+      left: 720px; /* Move a div  para a direita da posição original */
+        margin: 20px;
+        background-color:rgb(3, 25, 73) ;
+        border: 10px double rgb(3, 25, 73);
+        border-radius: 10px; /*pra arrendondar a borda */
+        padding: 20px; /*Espaço interno */
+        box-shadow: 0px 0px 15px darkgoldenrod;
+        position: relative;
+    }
+
+    .estudiosos{
+        width: 650px;  /* Define a largura */
+          height: 210px; /* Define a altura  */
+            top: -345px; /* Move a div para baixo da posição original */
+          left: 300px; /* Move a div  para a direita da posição original */
+            margin: 20px;
+            background-color:rgb(3, 25, 73) ;
+            border: 10px double rgb(3, 25, 73);
+            border-radius: 10px; /*pra arrendondar a borda */
+            padding: 20px; /*Espaço interno */
+            box-shadow: 0px 0px 15px darkgoldenrod;
+            position: relative;
+        }
+
+        .moedas{
+            text-align: center;
+             margin-top: 25px;
+             
+        }
+
+        .container{
+            width: 350px;
+            height: 500px;
+            border-radius: 7px;
+            margin:auto;
+            margin-top: 30px;
+            background-color: antiquewhite;
+            box-shadow: 0 0 15px black;
+    
+        }
+
+        .origen{
+            width: 1250px;  /* Define a largura */
+              height: 150px; /* Define a altura  */
+                margin: 20px;
+                background-color:rgb(3, 25, 73) ;
+                border: 10px double rgb(3, 25, 73);
+                border-radius: 10px; /*pra arrendondar a borda */
+                padding: 10px; /*Espaço interno */
+                box-shadow: 0px 0px 15px darkgoldenrod;
+                position: relative;
+            }
+
+     .media{
+        width: 1250px;  /* Define a largura */
+            height: 150px; /* Define a altura  */
+              margin: 20px;
+               background-color:rgb(3, 25, 73) ;
+              border: 10px double rgb(3, 25, 73);
+              border-radius: 10px; /*pra arrendondar a borda */
+             padding: 10px; /*Espaço interno */
+               box-shadow: 0px 0px 15px darkgoldenrod;
+                position: relative;
+                }
+
+             .renacimento{
+               width: 1250px;  /* Define a largura */
+              height: 150px; /* Define a altura  */
+                   margin: 20px;
+                 background-color:rgb(3, 25, 73) ;
+                   border: 10px double rgb(3, 25, 73);
+                border-radius: 10px; /*pra arrendondar a borda */
+                  padding: 10px; /*Espaço interno */
+                   box-shadow: 0px 0px 15px darkgoldenrod;
+                  position: relative;
+               }
+
+              .moderno{
+                  width: 1250px;  /* Define a largura */
+                    height: 150px; /* Define a altura  */
+                      margin: 20px;
+                      background-color:rgb(3, 25, 73) ;
+                       border: 10px double rgb(3, 25, 73);
+                    border-radius: 10px; /*pra arrendondar a borda */
+                    padding: 10px; /*Espaço interno */
+                       box-shadow: 0px 0px 15px darkgoldenrod;
+                       position: relative;
+                  }
+        
+                  .Antiga{
+                    width: 1250px;  /* Define a largura */
+                      height: 150px; /* Define a altura  */
+                        margin: 20px;
+                        background-color:rgb(3, 25, 73) ;
+                        border: 10px double rgb(3, 25, 73);
+                        border-radius: 10px; /*pra arrendondar a borda */
+                        padding: 10px; /*Espaço interno */
+                        box-shadow: 0px 0px 15px darkgoldenrod;
+                        position: relative;
+                    }
+
+                    .comemorativas{
+                        width: 1250px;  /* Define a largura */
+                          height: 150px; /* Define a altura  */
+                            margin: 20px;
+                            background-color:rgb(3, 25, 73) ;
+                            border: 10px double rgb(3, 25, 73);
+                            border-radius: 10px; /*pra arrendondar a borda */
+                            padding: 10px; /*Espaço interno */
+                            box-shadow: 0px 0px 15px darkgoldenrod;
+                            position: relative;
+                        }
+
+                        .misterio{
+                            width: 1250px;  /* Define a largura */
+                              height: 150px; /* Define a altura  */
+                                margin: 20px;
+                                background-color:rgb(3, 25, 73) ;
+                                border: 10px double rgb(3, 25, 73);
+                                border-radius: 10px; /*pra arrendondar a borda */
+                                padding: 10px; /*Espaço interno */
+                                box-shadow: 0px 0px 15px darkgoldenrod;
+                                position: relative;
+                            }
+
+                            .porque{
+                                width: 1250px;  /* Define a largura */
+                                  height: 150px; /* Define a altura  */
+                                    margin: 20px;
+                                    background-color:rgb(3, 25, 73) ;
+                                    border: 10px double rgb(3, 25, 73);
+                                    border-radius: 10px; /*pra arrendondar a borda */
+                                    padding: 10px; /*Espaço interno */
+                                    box-shadow: 0px 0px 15px darkgoldenrod;
+                                    position: relative;
+                            }
+
+                            .contatoss{
+                                text-align: center;
+                                width: 1250px;  /* Define a largura */
+                                  height: 100px; /* Define a altura  */
+                                    margin: 20px;
+                                    background-color:rgb(3, 25, 73) ;
+                                    border: 10px double rgb(3, 25, 73);
+                                    border-radius: 10px; /*pra arrendondar a borda */
+                                    padding: 10px; /*Espaço interno */
+                                    box-shadow: 0px 0px 15px darkgoldenrod;
+                                    position: relative;
+                            }
